@@ -19,7 +19,6 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 * Xlog
 
 TikTok Views Analytics Tool
-
 A powerful analytics tool designed to track and analyze video views on TikTok. It provides clear insights into view counts, growth trends, audience engagement, and video performance over time.
 
 Key Features:
